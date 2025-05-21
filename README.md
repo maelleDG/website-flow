@@ -1,3 +1,5 @@
+# Un titre pour la gestion de conflit number 2
+
 Et bimmm
 
 # git-conflict-challenge
