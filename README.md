@@ -2,6 +2,7 @@ Et bimmm
 
 # git-conflict-challenge
 Et parce que j'ai la flemme de recréer un repo
+Je recommence car j'ai oublié le git pull de tout à l'heure sur ce fichier.
 
 # website-flow
 Une Classe Internationale, dotée d’outils innovants,
