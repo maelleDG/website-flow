@@ -1,3 +1,6 @@
+# git-conflict-challenge
+Et parce que j'ai la flemme de recréer un repo
+
 # website-flow
 Une Classe Internationale, dotée d’outils innovants,
 à la hauteur du Diam 24 od
