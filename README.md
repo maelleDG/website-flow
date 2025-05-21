@@ -1,3 +1,5 @@
+Et bimmm
+
 # git-conflict-challenge
 Et parce que j'ai la flemme de recréer un repo
 
